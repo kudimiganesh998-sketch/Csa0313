@@ -1,0 +1,8 @@
+University Course Prerequisite System
+======================================
+
+BFS (Kahn's Algorithm) Topological Order:
+Programming Fundamentals -> Computer Networks -> Data Structures -> Database Management Systems -> Algorithms -> Operating Systems -> Artificial Intelligence -> Machine Learning
+
+DFS Topological Order:
+Computer Networks -> Programming Fundamentals -> Database Management Systems -> Data Structures -> Operating Systems -> Algorithms -> Artificial Intelligence -> Machine Learning
